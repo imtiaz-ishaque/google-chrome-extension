@@ -1,0 +1,11 @@
+{
+  "name": "JSON Placeholder Albums",
+  "version": "1.0.0",
+  "description": "JSON Placeholder Albums",
+  "manifest_version": 3,
+  "author": "Imtiaz Baloch",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "JSON Placeholder Albums"
+  }
+}
